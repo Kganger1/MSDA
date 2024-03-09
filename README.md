@@ -1,2 +1,2 @@
 # MSDA
-Examples of my course work in my Master's Program at WGU
+Examples of my coursework in my Master's Program at WGU
